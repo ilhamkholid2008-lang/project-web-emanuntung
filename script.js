@@ -23,5 +23,5 @@ window.addEventListener('scroll', () => {
   const nav = document.querySelector('nav');
   nav.style.background = window.scrollY > 50
     ? 'rgba(65, 61, 61, 0.99)'
-    : 'rgba(1, 2, 3, 0.96)';
+    : 'rgba(39, 115, 190, 0.96)';
 });
